@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafamorbel/)
 [![](https://img.shields.io/badge/@mkare-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@mkare)
 
-![](https://img.shields.io/badge/JavaScript-c78100?style=flat&logo=javascript&logoColor=white)
+[![](https://img.shields.io/badge/JavaScript-c78100?style=flat&logo=javascript&logoColor=white)]()
 ![](https://img.shields.io/badge/ECMAScript-c78100?style=flat)
 ![](https://img.shields.io/badge/TypeScript-235a97?style=flat&logo=typescript&logoColor=white)
 
