@@ -7,7 +7,10 @@ mkare/mkare is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafamorbel/)
+[![](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mustafamorbel)
 [![](https://img.shields.io/badge/@mkare-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@mkare)
+
+[![](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/GnIsiUJ)
 
 [![](https://img.shields.io/badge/JavaScript-c78100?style=flat&logo=javascript&logoColor=white)]()
 [![](https://img.shields.io/badge/ECMAScript-c78100?style=flat)]()
