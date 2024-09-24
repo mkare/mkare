@@ -35,3 +35,5 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/TailwindCss-38bdf8?style=flat&logo=tailwind-css&logoColor=white)]()
 [![](https://img.shields.io/badge/Styled%20Components-white?style=flat&logo=styled-components&logoColor=purple&labelColor=white)]()
 [![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)]()
+
+[![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()
