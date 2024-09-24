@@ -26,6 +26,11 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white&labelColor=0769AD)]()
 [![](https://img.shields.io/badge/Axios-671DDF?style=flat&logo=axios&logoColor=white&labelColor=671DDF)]()
 
+[![](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)]()
+[![](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)]()
+[![](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)]()
+[![](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white)]()
+
 [![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=E34F26)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=1572B6)]()
 [![](https://img.shields.io/badge/Sass-FF69B4?style=flat&logo=sass&logoColor=white&labelColor=FF69B4)]()
@@ -36,4 +41,3 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/Styled%20Components-white?style=flat&logo=styled-components&logoColor=purple&labelColor=white)]()
 [![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)]()
 
-[![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)]()
