@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white&labelColor=0769AD)]()
 [![](https://img.shields.io/badge/Axios-671DDF?style=flat&logo=axios&logoColor=white&labelColor=671DDF)]()
 
-[![](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)]()
+[![](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white)]()
 [![](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)]()
 [![](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)]()
 [![](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white)]()
