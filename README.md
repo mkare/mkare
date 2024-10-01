@@ -60,6 +60,19 @@ I am a passionate **Frontend Developer** with over 13 years of experience in bui
 [![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)]()
 [![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)]()
 
+## ✍️ Medium Articles
+
+Here are some of my articles on Medium:
+
+- [HTML Native Dialog Component in React with Tailwind CSS](https://medium.com/@mkare/html-native-dialog-component-in-react-with-tailwind-css-2b23356ef036)
+- [Change Page Header on Scroll Using Intersection Observer API: A Dynamic UX Approach](https://medium.com/@mkare/change-page-header-on-scroll-using-intersection-observer-api-a-dynamic-ux-approach-d09659a50e3d)
+- [Observer Request Manager: Modern API Interaction Made Simple](https://medium.com/@mkare/observer-request-manager-modern-api-interaction-made-simple-typescript-252c65c03300)
+- [Function Borrowing in JavaScript](https://medium.com/@mkare/function-borrowing-in-javascript-275e336a27f6)
+- [JavaScript: The Best of Both Worlds - OOP and Functional Programming](https://medium.com/@mkare/javascript-the-best-of-both-worlds-oop-and-functional-programming-257e01821ad1)
+- [Asynchronous Programming in JavaScript: Callbacks, Promises, and Async/Await](https://medium.com/@mkare/asynchronous-programming-in-javascript-callbacks-promises-and-async-await-ef683398b455)
+- [Effectively Managing 404 Errors on the Server Side in SPAs](https://medium.com/@mkare/effectively-managing-404-errors-on-the-server-side-in-spas-884ae11f528c)
+
+
 ## 💻 Professional Experience
 - **JavaScript (13 Years Exp.)**: Expertise in core JavaScript and ES6+ syntax.
 - **Vue.js & Nuxt.js (8 Years Exp.)**: Extensive experience in building applications with Vue.js and its ecosystem (Vuex, NuxtJS).
