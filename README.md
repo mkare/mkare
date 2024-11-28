@@ -71,7 +71,8 @@ Here are some of my articles on Medium:
 - [JavaScript: The Best of Both Worlds - OOP and Functional Programming](https://medium.com/@mkare/javascript-the-best-of-both-worlds-oop-and-functional-programming-257e01821ad1)
 - [Asynchronous Programming in JavaScript: Callbacks, Promises, and Async/Await](https://medium.com/@mkare/asynchronous-programming-in-javascript-callbacks-promises-and-async-await-ef683398b455)
 - [Effectively Managing 404 Errors on the Server Side in SPAs](https://medium.com/@mkare/effectively-managing-404-errors-on-the-server-side-in-spas-884ae11f528c)
-
+- [Best Practices for Using TypeScript with React](https://medium.com/@mkare/best-practices-for-using-typescript-with-react-bad13d851143)
+- [Building a Note-Taking Application with MongoDB, Express.js, and React](https://medium.com/@mkare/building-a-note-taking-application-with-mongodb-express-js-and-react-5c8eea99acbc)
 
 ## 💻 Professional Experience
 - **JavaScript (13 Years Exp.)**: Expertise in core JavaScript and ES6+ syntax.
