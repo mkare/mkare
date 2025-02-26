@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkare&base=6000&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="mustafamorbel" />
+  <img src="https://komarev.com/ghpvc/?username=mkare&base=7000&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="mustafamorbel" />
 </p>
 
 ## 🚀 About Me
-I am a passionate **Frontend Developer** with over 13 years of experience in building responsive, user-friendly web applications. My primary focus is JavaScript and modern frameworks like Vue.js and React. I love creating clean, performant, and maintainable code.
+I am a passionate **Frontend Developer** with over 14 years of experience in building responsive, user-friendly web applications. My primary focus is JavaScript and modern frameworks like Vue.js and React. I love creating clean, performant, and maintainable code.
 
 <a href="https://www.buymeacoffee.com/GnIsiUJ"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
